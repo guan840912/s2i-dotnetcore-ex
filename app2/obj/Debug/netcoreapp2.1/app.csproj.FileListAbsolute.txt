@@ -1,0 +1,14 @@
+/opt/app-root/src/app/bin/Debug/netcoreapp2.1/app.deps.json
+/opt/app-root/src/app/bin/Debug/netcoreapp2.1/app.runtimeconfig.json
+/opt/app-root/src/app/bin/Debug/netcoreapp2.1/app.runtimeconfig.dev.json
+/opt/app-root/src/app/bin/Debug/netcoreapp2.1/app.dll
+/opt/app-root/src/app/bin/Debug/netcoreapp2.1/app.pdb
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.csprojAssemblyReference.cache
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.csproj.CoreCompileInputs.cache
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.RazorAssemblyInfo.cache
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.RazorAssemblyInfo.cs
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.AssemblyInfoInputs.cache
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.AssemblyInfo.cs
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.RazorTargetAssemblyInfo.cache
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.dll
+/opt/app-root/src/app/obj/Debug/netcoreapp2.1/app.pdb
