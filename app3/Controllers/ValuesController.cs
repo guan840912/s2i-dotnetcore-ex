@@ -21,7 +21,7 @@ namespace app.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(string id)
         {
-            return "Hello" + id + "!!! welcome~~";
+            return "Hello " + id + "!!! welcome~~";
         }
 
         // POST api/values
